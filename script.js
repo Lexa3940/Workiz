@@ -34,10 +34,10 @@ document.getElementById("jobForm").addEventListener("submit", function (event) {
     job_type: jobType,
     job_source: jobSource,
     job_description: jobDescription,
-    "995304bdcbc9b608721c728e78b2a923ec7c759c": address, // Check if these field keys are correct
+    "995304bdcbc9b608721c728e78b2a923ec7c759c": address, 
     "388395bc1abbfb9159f26378ff7f95b22ddf05e7": city,
-    eefc5f95d5d33334427334624df0d33fbf04eb3e: state,
-    c25de398dcc2770edf851610f6f6700af0139ca1: zipCode,
+    "eefc5f95d5d33334427334624df0d33fbf04eb3e": state,
+    "c25de398dcc2770edf851610f6f6700af0139ca1": zipCode,
     "956fd6bbdd0bc8e125087407190800471b21d3b5": area,
     "5b634395e8f24b0481d5275df0c7f9140919eeba": startDate,
     "16946850c4771bc751fe285ff470f46a06d27545": startTime,
