@@ -1,0 +1,13 @@
+/* Базовая стилизация формы и iframe */
+body {
+  font-family: Arial, sans-serif;
+}
+
+#job-form {
+  margin-bottom: 20px;
+}
+
+#iframe-container {
+  width: 800px;
+  height: 600px;
+}
